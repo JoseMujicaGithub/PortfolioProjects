@@ -1,0 +1,1 @@
+This is my firs SQL project, with real Covid data from https://ourworldindata.org/explorers/coronavirus-data-explorer making diferent types of SQL querys to get an specific data or table from our data.
