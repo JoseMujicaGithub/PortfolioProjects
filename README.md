@@ -1,1 +1,1 @@
-This is my firs SQL project, with real Covid data from https://ourworldindata.org/explorers/coronavirus-data-explorer making diferent types of SQL querys to get an specific data or table from our data.
+This is my first SQL project, with real Covid data from https://ourworldindata.org/explorers/coronavirus-data-explorer making different types of SQL queries to get specific data or tables from our data.
